@@ -1,0 +1,2 @@
+# impureComponent
+Created with CodeSandbox
